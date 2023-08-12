@@ -1,2 +1,2 @@
-# Hotel-Management-System
+# Hotel-Booking-Program
 in Java
